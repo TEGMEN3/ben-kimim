@@ -1,0 +1,2 @@
+
+print("İNSTAGRAM'I AÇ")
